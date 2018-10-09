@@ -3,8 +3,10 @@ function happyHolidays() {
   return ("Happy holidays!")
 }
 
+var message
+
 function happyHolidaysTo(name) {
-  var message = `Happy holidays, ${name}!`
+  message = `Happy holidays, ${name}!`
   return (message)
 }
 
