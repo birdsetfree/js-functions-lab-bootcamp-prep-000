@@ -1,5 +1,5 @@
 // write your code below!
-function happHolidays() {
+function happyHolidays() {
   var message = "Happy holidays!"
   return (message)
 }
