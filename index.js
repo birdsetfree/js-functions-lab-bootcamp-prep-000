@@ -1,6 +1,7 @@
 // write your code below!
 function happHolidays() {
-  return ("Happy holidays!")
+  var message = "Happy holidays!"
+  return (message)
 }
 
 function happyHolidaysTo(name) {
